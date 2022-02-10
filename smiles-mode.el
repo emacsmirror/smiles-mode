@@ -3,6 +3,7 @@
 
 ;; Keywords: SMILES
 ;; Version: 0.0.1
+;; Homepage: https://repo.or.cz/smiles-mode.git
 
 ;;; Commentary:
 
